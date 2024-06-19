@@ -1,0 +1,14 @@
+config\ConexionBD.class
+model\Producto.class
+views\CategoriaView.class
+views\ProductoView.class
+dao\EmpleadoDAO.class
+controller\CategoriaController.class
+model\Empleado.class
+model\Categoria.class
+dao\CategoriaDAO.class
+com\EjemploBD.class
+dao\ProductoDAO.class
+controller\EmpleadoController.class
+views\EmpleadoView.class
+controller\ProductoController.class
